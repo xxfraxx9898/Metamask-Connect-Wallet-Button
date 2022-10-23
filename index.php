@@ -7,8 +7,8 @@
         <meta charset="utf-8">
         <title>Metamask jquery - Connect Wallet button and check eth balance</title>
 
-        <link rel="stylesheet" href="assets/style/bootstrap.css">
-        <link rel="stylesheet" href="assets/style/style.css">
+        <link rel="stylesheet" href="assets/style/bootstrap.css"/>
+        <link rel="stylesheet" href="assets/style/style.css"/>
     </head>
 
     <body>
